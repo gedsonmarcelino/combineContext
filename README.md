@@ -4,7 +4,7 @@
 
 This is a context text using an algotithm to combine an contexts arrays, avoiding a cascade provider inside the main application.
 
-![Screenshot - combineContext](./imgs/screenshot.png)
+![Screenshot - combineContext](https://github.com/gedsonmarcelino/combineContext/blob/master/imgs/screenshot.png)
 
 ## Source
 
