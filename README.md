@@ -1,6 +1,6 @@
 # combineContext
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-fcasxf)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/combine-text-vitejs)
 
 This is a context text using an algotithm to combine an contexts arrays, avoiding a cascade provider inside the main application.
 
