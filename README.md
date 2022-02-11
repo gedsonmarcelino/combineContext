@@ -2,7 +2,7 @@
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/combine-text-vitejs)
 
-This is a context test using an algorithm to combine an contexts arrays, avoiding a cascade provider inside the main application.
+This project is a context test using an algorithm to combine contexts arrays, avoiding a cascade provider inside the main application.
 
 ![Screenshot - combineContext](https://cdn.jsdelivr.net/gh/gedsonmarcelino/combineContext@master/imgs/Screenshot%20from%202022-02-11%2012-05-11.png)
 
