@@ -4,7 +4,7 @@
 
 This is a context text using an algotithm to combine an contexts arrays, avoiding a cascade provider inside the main application.
 
-![Screenshot - combineContext](https://github.com/gedsonmarcelino/combineContext/blob/master/imgs/screenshot.png)
+![Screenshot - combineContext](https://cdn.jsdelivr.net/gh/gedsonmarcelino/combineContext@master/imgs/Screenshot%20from%202022-02-11%2012-05-11.png)
 
 ## Source
 
